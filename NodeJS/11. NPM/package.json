@@ -1,0 +1,28 @@
+{
+  "name": "flip",
+  "version": "1.0.0",
+  "description": "flip package",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev" : "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/PerfAct-Flip.git"
+  },
+  "keywords": [
+    "mastt",
+    "js"
+  ],
+  "author": "PerfAct Flip",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/github.com/PerfAct-Flip/issues"
+  },
+  "homepage": "https://github.com/github.com/PerfAct-Flip#readme"
+}

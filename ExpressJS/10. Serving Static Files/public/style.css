@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+button {
+    padding: 10px;
+    margin: 2px;
+    border: 2px solid rgb(99, 0, 148);
+    background-color: rgb(154, 96, 208);
+}
+
+button:hover{
+    background-color: antiquewhite;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+body{
+    background-color:bisque;
+}
